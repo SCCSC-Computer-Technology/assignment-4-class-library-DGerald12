@@ -1,0 +1,5 @@
+In the solution, I found one class without any code. This nonexistent code will likely not perform any function.
+I highly recommend writing code to make a functional library.
+
+This nonexistent code also has no documentation or comments. Including some documentation to explain the situation,
+even lacking code, may have been beneficial.
